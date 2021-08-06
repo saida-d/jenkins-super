@@ -1,4 +1,4 @@
-<h1>Welcome to Apache, Docker </h1>
+<h1>Welcome to Jenkins</h1>
 Docker image : php-apache:latest <br>
 Jenkins : Master/Slave
 Applied : Delivery Pipeline - Declarative Post
